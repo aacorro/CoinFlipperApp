@@ -1,0 +1,11 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\bin\Debug\CoinFlipApp.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\bin\Debug\CoinFlipApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\bin\Debug\CoinFlipApp.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CoinFlipApp\obj\Debug\CoinFlipApp.pdb
